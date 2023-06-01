@@ -1,4 +1,4 @@
-### Hi there 👋
+![shisheng10 GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=shisheng10&show_icons=true&theme=ayu-mirage)
 
 <!--
 **shisheng10/shisheng10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
